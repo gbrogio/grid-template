@@ -1,0 +1,40 @@
+.comment-card {
+  padding: 2rem;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.comment-card_person-infos {
+  display: flex;
+  align-items: center;
+}
+.comment-card_person-info__description {
+  margin-left: 2rem;
+}
+.graduate {
+  opacity: 50%;
+}
+.comment-card[data-card="1"] {
+  background-color: var(--violet);
+  color: white;
+  grid-area: cd1;
+
+}
+.comment-card[data-card="2"] {
+  background-color: var(--grayish);
+  color: white;
+  grid-area: cd2;
+}
+.comment-card[data-card="3"] {
+  
+  grid-area: cd3;
+}
+.comment-card[data-card="4"] {
+  background-color: var(--blackish);
+  color: white;
+  grid-area: cd4;
+}
+.comment-card[data-card="5"] {
+  
+  grid-area: cd5;
+}
