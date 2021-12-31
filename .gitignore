@@ -1,0 +1,14 @@
+*.sketch
+*.xd
+*.fig
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
+
+# folders
+design
+
+# files
+README-template.md
+style-guide.md
