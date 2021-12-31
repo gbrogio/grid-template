@@ -6,9 +6,6 @@
 .DS_Store
 .prettierignore
 
-# folders
-design
-
 # files
 README-template.md
 style-guide.md
